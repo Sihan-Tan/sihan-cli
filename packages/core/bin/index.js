@@ -1,3 +1,3 @@
 #! /usr/bin/env node
 
-console.log('hello sihan-cli');
+console.log('hello, this is sihan-cli');
