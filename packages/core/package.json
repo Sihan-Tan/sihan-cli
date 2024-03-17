@@ -16,5 +16,9 @@
   "scripts": {
     "test": "node ./__tests__/core.test.js"
   },
-  "gitHead": "71bd2925b2fb8f805ff1be857e7c510f865e1791"
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "gitHead": "243d7d423fa05fd6e4da22ffb92c6294c2a7d724"
 }
